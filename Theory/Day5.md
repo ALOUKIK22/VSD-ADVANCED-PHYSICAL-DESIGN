@@ -1,0 +1,3 @@
+# Day-5 : Final Stages of RTL-to-GDSII Flow and Design Closure
+
+Day 5 focused on the final stages of the **RTL-to-GDSII physical design flow**, covering **Power Distribution Network (PDN) generation**, **routing**, and **design closure**. The objective was to complete the physical interconnections using global and detailed routing, verify the layout against the Sky130 design rules, analyze and resolve DRC violations, and ensure that the final layout was ready for tape-out. This stage also provided an understanding of routing guides, routing strategies, and the significance of design rule compliance in achieving a manufacturable chip.
