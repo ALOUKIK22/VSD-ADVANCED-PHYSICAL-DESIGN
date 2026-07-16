@@ -1,0 +1,3 @@
+# Day-4 : Pre-Layout Timing Analysis
+
+Day 4 focused on **Pre-Layout Static Timing Analysis (STA)** and the integration of the custom standard cell into the OpenLANE flow. The objective was to generate the LEF for the custom inverter, incorporate it into the design, and analyze the timing performance before routing. Using **OpenSTA**, the critical timing paths were identified, timing constraints were applied, and various optimization techniques such as synthesis strategy selection, buffering, fanout reduction, and cell replacement were performed to improve the overall timing performance before proceeding to Clock Tree Synthesis (CTS).
