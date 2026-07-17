@@ -83,7 +83,8 @@ Clock-Tree Synthesis (CTS) : Before proceeding to routing, we need to perform th
 
 After completing **Clock Tree Synthesis (CTS)**, the design enters the **Routing** stage. During this phase, all the placed standard cells are interconnected according to the netlist by creating signal routes through metal layers. The routing tool determines an optimal path for each net while satisfying the design rules and utilizing the available routing resources. Information such as **metal pitch, track count, layer thickness, minimum wire width, via definitions, and routing rules** is obtained from the **Process Design Kit (PDK)**, enabling the router to generate a manufacturable layout.
 
-<img width="835" height="321" alt="43" src="https://github.com/user-attachments/assets/dbc5e92b-de95-46d6-8e01-5df6cfd11f94" />
+
+<img width="802" height="317" alt="44" src="https://github.com/user-attachments/assets/9f914c39-b1dc-4faa-95e4-830354937799" />  
 
 
 ## Signoff
